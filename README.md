@@ -8,4 +8,4 @@ Clone the repository with submodules.
 
 Download the latest release of `chimera-example`  JAR from the [Chimera](https://github.com/cefriel/chimera) repository or add the right `wget` command to the `run.sh` file.
 
-The script `run.sh` can be used to run the tests. Manual inspection is needed on http://rml.io/test-cases/ to check and asses the expected behaviour. 
+The script `run.sh` can be used to run the tests. Manual inspection is needed on http://rml.io/test-cases/ to check and assess if Chimera behaves as defined in the test cases. 
