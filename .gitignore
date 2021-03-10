@@ -1,0 +1,9 @@
+/results
+*.jar
+/*.csv
+/*.json
+/*.xml
+/*.nq
+/*.ttl
+!/result.csv
+!/errors.csv

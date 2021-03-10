@@ -1,0 +1,3 @@
+[submodule "rml-test-cases"]
+	path = rml-test-cases
+	url = https://github.com/rmlio/rml-test-cases/
